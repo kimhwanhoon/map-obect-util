@@ -1,0 +1,1 @@
+export { mapObject, MapObjectResult } from './mapObject';
